@@ -52,7 +52,6 @@ At first, you need to configure the object. The minimum config/environment varia
 
 ```json
 {
-  "mode": "sandbox",
   "client_id": "your merchant id",
   "client_secret": "your merchant password or secret token",
   "client_store_id": "1",
